@@ -1,8 +1,10 @@
 Este projeto foi desenvolvido como parte da disciplina **Estrutura de Dados**, no curso de Análise e Desenvolvimento de Sistemas da Unicesumar. A proposta foi construir uma
 **Landing Page pessoal** usando HTML e CSS puros, sem frameworks.
+
 ✨ Objetivo
 Criar uma página de apresentação profissional, com informações pessoais, habilidades, projetos, curiosidades e dados para contato. O foco foi trabalhar com HTML semântico, organização 
 visual e responsividade básica.
+
 🧩 Tecnologias Utilizadas
 - HTML5
 - CSS3
